@@ -1,0 +1,51 @@
+{
+  "storymap": {
+    "calculate_zoom": false,
+    "call_to_action": true,
+    "call_to_action_text": "",
+    "map_as_image": true,
+    "map_type": "zoomify",
+    "slides": [
+      {
+        "date": "",
+        "location": {
+          "line": true
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": "https://agitarte.github.io/End-the-Debt-Decolonize-Liberate-Puerto-Rico-Scroll/AgitArte-scroll-cover-A.jpg"
+        },
+        "text": {
+          "headline": "End the Debt! Decolonize! Liberate Puerto Rico! Scroll",
+          "text": "<span>End the Debt! Decolonize! Liberate! Scroll is a participatory cultural response to Hurricane María that tells the story of U.S. imperialism through the lens of the current economic and environmental state of Puerto Rico and its diaspora.&nbsp;</span><div><span>The piece was developed between AgitArte and collaborators in the U.S. and Puerto Rico, and is part of the Arts and Culture tour of the recently released book, \"When We Fight, We Win!: Twenty-First Century Social Movements and the Activists That Are Transforming Our World.\"</span></div>"
+        },
+        "type": "overview"
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 84.54136107313408,
+          "line": true,
+          "lon": -14.0625,
+          "zoom": 1
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": ""
+        },
+        "text": {
+          "headline": "",
+          "text": ""
+        }
+      }
+    ],
+    "zoomify": {
+      "attribution": "",
+      "height": 391,
+      "path": "https://agitarte.github.io/End-the-Debt-Decolonize-Liberate-Puerto-Rico-Scroll/",
+      "width": 204882
+    }
+  }
+}
